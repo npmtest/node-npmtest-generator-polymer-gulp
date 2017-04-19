@@ -1,0 +1,34 @@
+<svg height="494" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="494" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-19 23:04:58 +0000    44925 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 23:04:58 +0000    12212 bytes  LICENSE.txt</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 23:04:58 +0000     2703 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 23:04:58 +0000     4071 bytes  app/index.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 23:04:58 +0000       67 bytes  app/templates/_README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 23:04:58 +0000      296 bytes  app/templates/_bower.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 23:04:58 +0000       49 bytes  app/templates/_bowerrc</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 23:04:58 +0000    15437 bytes  app/templates/_gulpfile.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 23:04:58 +0000     1418 bytes  app/templates/_package.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 23:04:58 +0000      736 bytes  app/templates/app/_component.html</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 23:04:58 +0000      563 bytes  app/templates/app/_demo.html</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 23:04:58 +0000      427 bytes  app/templates/app/_index.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 23:04:58 +0000      988 bytes  app/templates/app/scripts/_component.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 23:04:58 +0000       14 bytes  app/templates/app/scripts/components/_components\</tspan>
+<tspan x="10" y="250">.js</tspan>
+<tspan x="10" y="266"> 14.  2017-04-19 23:04:58 +0000       32 bytes  app/templates/app/styles/_component.sass</tspan>
+<tspan x="10" y="282"> 15.  2017-04-19 23:04:58 +0000       33 bytes  app/templates/app/styles/_component.scss</tspan>
+<tspan x="10" y="298"> 16.  2017-04-19 23:04:58 +0000      160 bytes  app/templates/app/styles/components/_components.\</tspan>
+<tspan x="10" y="314">sass</tspan>
+<tspan x="10" y="330"> 17.  2017-04-19 23:04:58 +0000      164 bytes  app/templates/app/styles/components/_components.\</tspan>
+<tspan x="10" y="346">scss</tspan>
+<tspan x="10" y="362"> 18.  2017-04-19 23:04:58 +0000      329 bytes  app/templates/editorconfig</tspan>
+<tspan x="10" y="378"> 19.  2017-04-19 23:04:58 +0000       12 bytes  app/templates/gitattributes</tspan>
+<tspan x="10" y="394"> 20.  2017-04-19 23:04:58 +0000       70 bytes  app/templates/gitignore</tspan>
+<tspan x="10" y="410"> 21.  2017-04-19 23:04:58 +0000      388 bytes  app/templates/jshintrc</tspan>
+<tspan x="10" y="426"> 22.  2017-04-19 23:04:58 +0000       38 bytes  app/templates/travis.yml</tspan>
+<tspan x="10" y="442"> 23.  2017-04-19 23:04:58 +0000     2728 bytes  package.json</tspan>
+<tspan x="10" y="458"> 24.  2017-04-19 23:04:58 +0000     1727 bytes  test/test-creation.js</tspan>
+<tspan x="10" y="474"> 25.  2017-04-19 23:04:58 +0000      263 bytes  test/test-load.js</tspan>
+</text>
+</svg>
